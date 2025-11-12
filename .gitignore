@@ -157,3 +157,7 @@ $RECYCLE.BIN/
 .DS_Store
 sources/packages/*
 sources/.vs/
+/.vs
+/sources/TemplateEngine.Docx.Example/.vs/TemplateEngine.Docx.Example.csproj.dtbcache.json
+/sources/TemplateEngine.Docx.Tests/.vs
+/sources/TemplateEngine.Docx.Tests/Properties/Resources.Designer.cs
